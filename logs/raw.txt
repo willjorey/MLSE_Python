@@ -1,0 +1,468 @@
+                     name                                           url  parentid               country     woeid countryCode  placeType.code placeType.name
+0               Worldwide         http://where.yahooapis.com/v1/place/1         0                               1        None              19      Supername
+1                Winnipeg      http://where.yahooapis.com/v1/place/2972  23424775                Canada      2972          CA               7           Town
+2                  Ottawa      http://where.yahooapis.com/v1/place/3369  23424775                Canada      3369          CA               7           Town
+3                  Quebec      http://where.yahooapis.com/v1/place/3444  23424775                Canada      3444          CA               7           Town
+4                Montreal      http://where.yahooapis.com/v1/place/3534  23424775                Canada      3534          CA               7           Town
+5                 Toronto      http://where.yahooapis.com/v1/place/4118  23424775                Canada      4118          CA               7           Town
+6                Edmonton      http://where.yahooapis.com/v1/place/8676  23424775                Canada      8676          CA               7           Town
+7                 Calgary      http://where.yahooapis.com/v1/place/8775  23424775                Canada      8775          CA               7           Town
+8               Vancouver      http://where.yahooapis.com/v1/place/9807  23424775                Canada      9807          CA               7           Town
+9              Birmingham     http://where.yahooapis.com/v1/place/12723  23424975        United Kingdom     12723          GB               7           Town
+10              Blackpool     http://where.yahooapis.com/v1/place/12903  23424975        United Kingdom     12903          GB               7           Town
+11            Bournemouth     http://where.yahooapis.com/v1/place/13383  23424975        United Kingdom     13383          GB               7           Town
+12               Brighton     http://where.yahooapis.com/v1/place/13911  23424975        United Kingdom     13911          GB               7           Town
+13                Bristol     http://where.yahooapis.com/v1/place/13963  23424975        United Kingdom     13963          GB               7           Town
+14                Cardiff     http://where.yahooapis.com/v1/place/15127  23424975        United Kingdom     15127          GB               7           Town
+15               Coventry     http://where.yahooapis.com/v1/place/17044  23424975        United Kingdom     17044          GB               7           Town
+16                  Derby     http://where.yahooapis.com/v1/place/18114  23424975        United Kingdom     18114          GB               7           Town
+17              Edinburgh     http://where.yahooapis.com/v1/place/19344  23424975        United Kingdom     19344          GB               7           Town
+18                Glasgow     http://where.yahooapis.com/v1/place/21125  23424975        United Kingdom     21125          GB               7           Town
+19                   Hull     http://where.yahooapis.com/v1/place/25211  23424975        United Kingdom     25211          GB               7           Town
+20                  Leeds     http://where.yahooapis.com/v1/place/26042  23424975        United Kingdom     26042          GB               7           Town
+21              Leicester     http://where.yahooapis.com/v1/place/26062  23424975        United Kingdom     26062          GB               7           Town
+22              Liverpool     http://where.yahooapis.com/v1/place/26734  23424975        United Kingdom     26734          GB               7           Town
+23             Manchester     http://where.yahooapis.com/v1/place/28218  23424975        United Kingdom     28218          GB               7           Town
+24          Middlesbrough     http://where.yahooapis.com/v1/place/28869  23424975        United Kingdom     28869          GB               7           Town
+25              Newcastle     http://where.yahooapis.com/v1/place/30079  23424975        United Kingdom     30079          GB               7           Town
+26             Nottingham     http://where.yahooapis.com/v1/place/30720  23424975        United Kingdom     30720          GB               7           Town
+27               Plymouth     http://where.yahooapis.com/v1/place/32185  23424975        United Kingdom     32185          GB               7           Town
+28             Portsmouth     http://where.yahooapis.com/v1/place/32452  23424975        United Kingdom     32452          GB               7           Town
+29                Preston     http://where.yahooapis.com/v1/place/32566  23424975        United Kingdom     32566          GB               7           Town
+30              Sheffield     http://where.yahooapis.com/v1/place/34503  23424975        United Kingdom     34503          GB               7           Town
+31         Stoke-on-Trent     http://where.yahooapis.com/v1/place/36240  23424975        United Kingdom     36240          GB               7           Town
+32                Swansea     http://where.yahooapis.com/v1/place/36758  23424975        United Kingdom     36758          GB               7           Town
+33                 London     http://where.yahooapis.com/v1/place/44418  23424975        United Kingdom     44418          GB               7           Town
+34                Belfast     http://where.yahooapis.com/v1/place/44544  23424975        United Kingdom     44544          GB               7           Town
+35          Santo Domingo     http://where.yahooapis.com/v1/place/76456  23424800    Dominican Republic     76456          DO               7           Town
+36         Guatemala City     http://where.yahooapis.com/v1/place/83123  23424834             Guatemala     83123          GT               7           Town
+37               Acapulco    http://where.yahooapis.com/v1/place/110978  23424900                Mexico    110978          MX               7           Town
+38         Aguascalientes    http://where.yahooapis.com/v1/place/111579  23424900                Mexico    111579          MX               7           Town
+39              Chihuahua    http://where.yahooapis.com/v1/place/115958  23424900                Mexico    115958          MX               7           Town
+40            Mexico City    http://where.yahooapis.com/v1/place/116545  23424900                Mexico    116545          MX               7           Town
+41          Ciudad Juarez    http://where.yahooapis.com/v1/place/116556  23424900                Mexico    116556          MX               7           Town
+42         Nezahualcóyotl    http://where.yahooapis.com/v1/place/116564  23424900                Mexico    116564          MX               7           Town
+43               Culiacán    http://where.yahooapis.com/v1/place/117994  23424900                Mexico    117994          MX               7           Town
+44    Ecatepec de Morelos    http://where.yahooapis.com/v1/place/118466  23424900                Mexico    118466          MX               7           Town
+45            Guadalajara    http://where.yahooapis.com/v1/place/124162  23424900                Mexico    124162          MX               7           Town
+46             Hermosillo    http://where.yahooapis.com/v1/place/124785  23424900                Mexico    124785          MX               7           Town
+47                   León    http://where.yahooapis.com/v1/place/131068  23424900                Mexico    131068          MX               7           Town
+48                 Mérida    http://where.yahooapis.com/v1/place/133327  23424900                Mexico    133327          MX               7           Town
+49               Mexicali    http://where.yahooapis.com/v1/place/133475  23424900                Mexico    133475          MX               7           Town
+50              Monterrey    http://where.yahooapis.com/v1/place/134047  23424900                Mexico    134047          MX               7           Town
+51                Morelia    http://where.yahooapis.com/v1/place/134091  23424900                Mexico    134091          MX               7           Town
+52    Naucalpan de Juárez    http://where.yahooapis.com/v1/place/134395  23424900                Mexico    134395          MX               7           Town
+53                 Puebla    http://where.yahooapis.com/v1/place/137612  23424900                Mexico    137612          MX               7           Town
+54              Querétaro    http://where.yahooapis.com/v1/place/138045  23424900                Mexico    138045          MX               7           Town
+55               Saltillo    http://where.yahooapis.com/v1/place/141272  23424900                Mexico    141272          MX               7           Town
+56        San Luis Potosí    http://where.yahooapis.com/v1/place/144265  23424900                Mexico    144265          MX               7           Town
+57                Tijuana    http://where.yahooapis.com/v1/place/149361  23424900                Mexico    149361          MX               7           Town
+58                 Toluca    http://where.yahooapis.com/v1/place/149769  23424900                Mexico    149769          MX               7           Town
+59                Zapopan    http://where.yahooapis.com/v1/place/151582  23424900                Mexico    151582          MX               7           Town
+60                Mendoza    http://where.yahooapis.com/v1/place/332471  23424747             Argentina    332471          AR               7           Town
+61               Santiago    http://where.yahooapis.com/v1/place/349859  23424782                 Chile    349859          CL               7           Town
+62             Concepcion    http://where.yahooapis.com/v1/place/349860  23424782                 Chile    349860          CL               7           Town
+63             Valparaiso    http://where.yahooapis.com/v1/place/349861  23424782                 Chile    349861          CL               7           Town
+64                 Bogotá    http://where.yahooapis.com/v1/place/368148  23424787              Colombia    368148          CO               7           Town
+65                   Cali    http://where.yahooapis.com/v1/place/368149  23424787              Colombia    368149          CO               7           Town
+66               Medellín    http://where.yahooapis.com/v1/place/368150  23424787              Colombia    368150          CO               7           Town
+67           Barranquilla    http://where.yahooapis.com/v1/place/368151  23424787              Colombia    368151          CO               7           Town
+68                  Quito    http://where.yahooapis.com/v1/place/375732  23424801               Ecuador    375732          EC               7           Town
+69              Guayaquil    http://where.yahooapis.com/v1/place/375733  23424801               Ecuador    375733          EC               7           Town
+70                Caracas    http://where.yahooapis.com/v1/place/395269  23424982             Venezuela    395269          VE               7           Town
+71              Maracaibo    http://where.yahooapis.com/v1/place/395270  23424982             Venezuela    395270          VE               7           Town
+72                Maracay    http://where.yahooapis.com/v1/place/395271  23424982             Venezuela    395271          VE               7           Town
+73               Valencia    http://where.yahooapis.com/v1/place/395272  23424982             Venezuela    395272          VE               7           Town
+74              Barcelona    http://where.yahooapis.com/v1/place/395273  23424982             Venezuela    395273          VE               7           Town
+75         Ciudad Guayana    http://where.yahooapis.com/v1/place/395275  23424982             Venezuela    395275          VE               7           Town
+76                Turmero    http://where.yahooapis.com/v1/place/395277  23424982             Venezuela    395277          VE               7           Town
+77                   Lima    http://where.yahooapis.com/v1/place/418440  23424919                  Peru    418440          PE               7           Town
+78               Brasília    http://where.yahooapis.com/v1/place/455819  23424768                Brazil    455819          BR               7           Town
+79                  Belém    http://where.yahooapis.com/v1/place/455820  23424768                Brazil    455820          BR               7           Town
+80         Belo Horizonte    http://where.yahooapis.com/v1/place/455821  23424768                Brazil    455821          BR               7           Town
+81               Curitiba    http://where.yahooapis.com/v1/place/455822  23424768                Brazil    455822          BR               7           Town
+82           Porto Alegre    http://where.yahooapis.com/v1/place/455823  23424768                Brazil    455823          BR               7           Town
+83                 Recife    http://where.yahooapis.com/v1/place/455824  23424768                Brazil    455824          BR               7           Town
+84         Rio de Janeiro    http://where.yahooapis.com/v1/place/455825  23424768                Brazil    455825          BR               7           Town
+85               Salvador    http://where.yahooapis.com/v1/place/455826  23424768                Brazil    455826          BR               7           Town
+86              São Paulo    http://where.yahooapis.com/v1/place/455827  23424768                Brazil    455827          BR               7           Town
+87               Campinas    http://where.yahooapis.com/v1/place/455828  23424768                Brazil    455828          BR               7           Town
+88              Fortaleza    http://where.yahooapis.com/v1/place/455830  23424768                Brazil    455830          BR               7           Town
+89                Goiânia    http://where.yahooapis.com/v1/place/455831  23424768                Brazil    455831          BR               7           Town
+90                 Manaus    http://where.yahooapis.com/v1/place/455833  23424768                Brazil    455833          BR               7           Town
+91               São Luís    http://where.yahooapis.com/v1/place/455834  23424768                Brazil    455834          BR               7           Town
+92              Guarulhos    http://where.yahooapis.com/v1/place/455867  23424768                Brazil    455867          BR               7           Town
+93                Córdoba    http://where.yahooapis.com/v1/place/466861  23424747             Argentina    466861          AR               7           Town
+94                Rosario    http://where.yahooapis.com/v1/place/466862  23424747             Argentina    466862          AR               7           Town
+95           Barquisimeto    http://where.yahooapis.com/v1/place/468382  23424982             Venezuela    468382          VE               7           Town
+96                Maturín    http://where.yahooapis.com/v1/place/468384  23424982             Venezuela    468384          VE               7           Town
+97           Buenos Aires    http://where.yahooapis.com/v1/place/468739  23424747             Argentina    468739          AR               7           Town
+98                 Gdańsk    http://where.yahooapis.com/v1/place/493417  23424923                Poland    493417          PL               7           Town
+99                 Kraków    http://where.yahooapis.com/v1/place/502075  23424923                Poland    502075          PL               7           Town
+100                  Lodz    http://where.yahooapis.com/v1/place/505120  23424923                Poland    505120          PL               7           Town
+101                Poznań    http://where.yahooapis.com/v1/place/514048  23424923                Poland    514048          PL               7           Town
+102                Warsaw    http://where.yahooapis.com/v1/place/523920  23424923                Poland    523920          PL               7           Town
+103               Wroclaw    http://where.yahooapis.com/v1/place/526363  23424923                Poland    526363          PL               7           Town
+104                Vienna    http://where.yahooapis.com/v1/place/551801  23424750               Austria    551801          AT               7           Town
+105                  Cork    http://where.yahooapis.com/v1/place/560472  23424803               Ireland    560472          IE               7           Town
+106                Dublin    http://where.yahooapis.com/v1/place/560743  23424803               Ireland    560743          IE               7           Town
+107                Galway    http://where.yahooapis.com/v1/place/560912  23424803               Ireland    560912          IE               7           Town
+108              Bordeaux    http://where.yahooapis.com/v1/place/580778  23424819                France    580778          FR               7           Town
+109                 Lille    http://where.yahooapis.com/v1/place/608105  23424819                France    608105          FR               7           Town
+110                  Lyon    http://where.yahooapis.com/v1/place/609125  23424819                France    609125          FR               7           Town
+111             Marseille    http://where.yahooapis.com/v1/place/610264  23424819                France    610264          FR               7           Town
+112           Montpellier    http://where.yahooapis.com/v1/place/612977  23424819                France    612977          FR               7           Town
+113                Nantes    http://where.yahooapis.com/v1/place/613858  23424819                France    613858          FR               7           Town
+114                 Paris    http://where.yahooapis.com/v1/place/615702  23424819                France    615702          FR               7           Town
+115                Rennes    http://where.yahooapis.com/v1/place/619163  23424819                France    619163          FR               7           Town
+116            Strasbourg    http://where.yahooapis.com/v1/place/627791  23424819                France    627791          FR               7           Town
+117              Toulouse    http://where.yahooapis.com/v1/place/628886  23424819                France    628886          FR               7           Town
+118                Berlin    http://where.yahooapis.com/v1/place/638242  23424829               Germany    638242          DE               7           Town
+119                Bremen    http://where.yahooapis.com/v1/place/641142  23424829               Germany    641142          DE               7           Town
+120              Dortmund    http://where.yahooapis.com/v1/place/645458  23424829               Germany    645458          DE               7           Town
+121               Dresden    http://where.yahooapis.com/v1/place/645686  23424829               Germany    645686          DE               7           Town
+122            Dusseldorf    http://where.yahooapis.com/v1/place/646099  23424829               Germany    646099          DE               7           Town
+123                 Essen    http://where.yahooapis.com/v1/place/648820  23424829               Germany    648820          DE               7           Town
+124             Frankfurt    http://where.yahooapis.com/v1/place/650272  23424829               Germany    650272          DE               7           Town
+125               Hamburg    http://where.yahooapis.com/v1/place/656958  23424829               Germany    656958          DE               7           Town
+126               Cologne    http://where.yahooapis.com/v1/place/667931  23424829               Germany    667931          DE               7           Town
+127               Leipzig    http://where.yahooapis.com/v1/place/671072  23424829               Germany    671072          DE               7           Town
+128                Munich    http://where.yahooapis.com/v1/place/676757  23424829               Germany    676757          DE               7           Town
+129             Stuttgart    http://where.yahooapis.com/v1/place/698064  23424829               Germany    698064          DE               7           Town
+130               Bologna    http://where.yahooapis.com/v1/place/711080  23424853                 Italy    711080          IT               7           Town
+131                 Genoa    http://where.yahooapis.com/v1/place/716085  23424853                 Italy    716085          IT               7           Town
+132                 Milan    http://where.yahooapis.com/v1/place/718345  23424853                 Italy    718345          IT               7           Town
+133                Naples    http://where.yahooapis.com/v1/place/719258  23424853                 Italy    719258          IT               7           Town
+134               Palermo    http://where.yahooapis.com/v1/place/719846  23424853                 Italy    719846          IT               7           Town
+135                  Rome    http://where.yahooapis.com/v1/place/721943  23424853                 Italy    721943          IT               7           Town
+136                 Turin    http://where.yahooapis.com/v1/place/725003  23424853                 Italy    725003          IT               7           Town
+137              Den Haag    http://where.yahooapis.com/v1/place/726874  23424909           Netherlands    726874          NL               7           Town
+138             Amsterdam    http://where.yahooapis.com/v1/place/727232  23424909           Netherlands    727232          NL               7           Town
+139             Rotterdam    http://where.yahooapis.com/v1/place/733075  23424909           Netherlands    733075          NL               7           Town
+140               Utrecht    http://where.yahooapis.com/v1/place/734047  23424909           Netherlands    734047          NL               7           Town
+141             Barcelona    http://where.yahooapis.com/v1/place/753692  23424950                 Spain    753692          ES               7           Town
+142                Bilbao    http://where.yahooapis.com/v1/place/754542  23424950                 Spain    754542          ES               7           Town
+143            Las Palmas    http://where.yahooapis.com/v1/place/764814  23424950                 Spain    764814          ES               7           Town
+144                Madrid    http://where.yahooapis.com/v1/place/766273  23424950                 Spain    766273          ES               7           Town
+145                Malaga    http://where.yahooapis.com/v1/place/766356  23424950                 Spain    766356          ES               7           Town
+146                Murcia    http://where.yahooapis.com/v1/place/768026  23424950                 Spain    768026          ES               7           Town
+147                 Palma    http://where.yahooapis.com/v1/place/769293  23424950                 Spain    769293          ES               7           Town
+148               Seville    http://where.yahooapis.com/v1/place/774508  23424950                 Spain    774508          ES               7           Town
+149              Valencia    http://where.yahooapis.com/v1/place/776688  23424950                 Spain    776688          ES               7           Town
+150              Zaragoza    http://where.yahooapis.com/v1/place/779063  23424950                 Spain    779063          ES               7           Town
+151                Geneva    http://where.yahooapis.com/v1/place/782538  23424957           Switzerland    782538          CH               7           Town
+152              Lausanne    http://where.yahooapis.com/v1/place/783058  23424957           Switzerland    783058          CH               7           Town
+153                Zurich    http://where.yahooapis.com/v1/place/784794  23424957           Switzerland    784794          CH               7           Town
+154                 Brest    http://where.yahooapis.com/v1/place/824382  23424765               Belarus    824382          BY               7           Town
+155                Grodno    http://where.yahooapis.com/v1/place/825848  23424765               Belarus    825848          BY               7           Town
+156                 Gomel    http://where.yahooapis.com/v1/place/825978  23424765               Belarus    825978          BY               7           Town
+157                 Minsk    http://where.yahooapis.com/v1/place/834463  23424765               Belarus    834463          BY               7           Town
+158                  Riga    http://where.yahooapis.com/v1/place/854823  23424874                Latvia    854823          LV               7           Town
+159                Bergen    http://where.yahooapis.com/v1/place/857105  23424910                Norway    857105          NO               7           Town
+160                  Oslo    http://where.yahooapis.com/v1/place/862592  23424910                Norway    862592          NO               7           Town
+161            Gothenburg    http://where.yahooapis.com/v1/place/890869  23424954                Sweden    890869          SE               7           Town
+162             Stockholm    http://where.yahooapis.com/v1/place/906057  23424954                Sweden    906057          SE               7           Town
+163        Dnipropetrovsk    http://where.yahooapis.com/v1/place/918981  23424976               Ukraine    918981          UA               7           Town
+164               Donetsk    http://where.yahooapis.com/v1/place/919163  23424976               Ukraine    919163          UA               7           Town
+165               Kharkiv    http://where.yahooapis.com/v1/place/922137  23424976               Ukraine    922137          UA               7           Town
+166                  Kyiv    http://where.yahooapis.com/v1/place/924938  23424976               Ukraine    924938          UA               7           Town
+167                  Lviv    http://where.yahooapis.com/v1/place/924943  23424976               Ukraine    924943          UA               7           Town
+168                 Odesa    http://where.yahooapis.com/v1/place/929398  23424976               Ukraine    929398          UA               7           Town
+169            Zaporozhye    http://where.yahooapis.com/v1/place/939628  23424976               Ukraine    939628          UA               7           Town
+170                Athens    http://where.yahooapis.com/v1/place/946738  23424833                Greece    946738          GR               7           Town
+171          Thessaloniki    http://where.yahooapis.com/v1/place/963291  23424833                Greece    963291          GR               7           Town
+172                Bekasi   http://where.yahooapis.com/v1/place/1030077  23424846             Indonesia   1030077          ID               7           Town
+173                 Depok   http://where.yahooapis.com/v1/place/1032539  23424846             Indonesia   1032539          ID               7           Town
+174             Pekanbaru   http://where.yahooapis.com/v1/place/1040779  23424846             Indonesia   1040779          ID               7           Town
+175              Surabaya   http://where.yahooapis.com/v1/place/1044316  23424846             Indonesia   1044316          ID               7           Town
+176              Makassar   http://where.yahooapis.com/v1/place/1046138  23424846             Indonesia   1046138          ID               7           Town
+177               Bandung   http://where.yahooapis.com/v1/place/1047180  23424846             Indonesia   1047180          ID               7           Town
+178               Jakarta   http://where.yahooapis.com/v1/place/1047378  23424846             Indonesia   1047378          ID               7           Town
+179                 Medan   http://where.yahooapis.com/v1/place/1047908  23424846             Indonesia   1047908          ID               7           Town
+180             Palembang   http://where.yahooapis.com/v1/place/1048059  23424846             Indonesia   1048059          ID               7           Town
+181              Semarang   http://where.yahooapis.com/v1/place/1048324  23424846             Indonesia   1048324          ID               7           Town
+182             Tangerang   http://where.yahooapis.com/v1/place/1048536  23424846             Indonesia   1048536          ID               7           Town
+183             Singapore   http://where.yahooapis.com/v1/place/1062617  23424948             Singapore   1062617          SG               7           Town
+184                 Perth   http://where.yahooapis.com/v1/place/1098081  23424748             Australia   1098081          AU               7           Town
+185              Adelaide   http://where.yahooapis.com/v1/place/1099805  23424748             Australia   1099805          AU               7           Town
+186              Brisbane   http://where.yahooapis.com/v1/place/1100661  23424748             Australia   1100661          AU               7           Town
+187              Canberra   http://where.yahooapis.com/v1/place/1100968  23424748             Australia   1100968          AU               7           Town
+188                Darwin   http://where.yahooapis.com/v1/place/1101597  23424748             Australia   1101597          AU               7           Town
+189             Melbourne   http://where.yahooapis.com/v1/place/1103816  23424748             Australia   1103816          AU               7           Town
+190                Sydney   http://where.yahooapis.com/v1/place/1105779  23424748             Australia   1105779          AU               7           Town
+191            Kitakyushu   http://where.yahooapis.com/v1/place/1110809  23424856                 Japan   1110809          JP               7           Town
+192               Saitama   http://where.yahooapis.com/v1/place/1116753  23424856                 Japan   1116753          JP               7           Town
+193                 Chiba   http://where.yahooapis.com/v1/place/1117034  23424856                 Japan   1117034          JP               7           Town
+194               Fukuoka   http://where.yahooapis.com/v1/place/1117099  23424856                 Japan   1117099          JP               7           Town
+195             Hamamatsu   http://where.yahooapis.com/v1/place/1117155  23424856                 Japan   1117155          JP               7           Town
+196             Hiroshima   http://where.yahooapis.com/v1/place/1117227  23424856                 Japan   1117227          JP               7           Town
+197              Kawasaki   http://where.yahooapis.com/v1/place/1117502  23424856                 Japan   1117502          JP               7           Town
+198                  Kobe   http://where.yahooapis.com/v1/place/1117545  23424856                 Japan   1117545          JP               7           Town
+199              Kumamoto   http://where.yahooapis.com/v1/place/1117605  23424856                 Japan   1117605          JP               7           Town
+200                Nagoya   http://where.yahooapis.com/v1/place/1117817  23424856                 Japan   1117817          JP               7           Town
+201               Niigata   http://where.yahooapis.com/v1/place/1117881  23424856                 Japan   1117881          JP               7           Town
+202            Sagamihara   http://where.yahooapis.com/v1/place/1118072  23424856                 Japan   1118072          JP               7           Town
+203               Sapporo   http://where.yahooapis.com/v1/place/1118108  23424856                 Japan   1118108          JP               7           Town
+204                Sendai   http://where.yahooapis.com/v1/place/1118129  23424856                 Japan   1118129          JP               7           Town
+205             Takamatsu   http://where.yahooapis.com/v1/place/1118285  23424856                 Japan   1118285          JP               7           Town
+206                 Tokyo   http://where.yahooapis.com/v1/place/1118370  23424856                 Japan   1118370          JP               7           Town
+207              Yokohama   http://where.yahooapis.com/v1/place/1118550  23424856                 Japan   1118550          JP               7           Town
+208                Goyang   http://where.yahooapis.com/v1/place/1130853  23424868                 Korea   1130853          KR               7           Town
+209                Yongin   http://where.yahooapis.com/v1/place/1132094  23424868                 Korea   1132094          KR               7           Town
+210                 Ansan   http://where.yahooapis.com/v1/place/1132444  23424868                 Korea   1132444          KR               7           Town
+211               Bucheon   http://where.yahooapis.com/v1/place/1132445  23424868                 Korea   1132445          KR               7           Town
+212                 Busan   http://where.yahooapis.com/v1/place/1132447  23424868                 Korea   1132447          KR               7           Town
+213              Changwon   http://where.yahooapis.com/v1/place/1132449  23424868                 Korea   1132449          KR               7           Town
+214                 Daegu   http://where.yahooapis.com/v1/place/1132466  23424868                 Korea   1132466          KR               7           Town
+215               Gwangju   http://where.yahooapis.com/v1/place/1132481  23424868                 Korea   1132481          KR               7           Town
+216               Incheon   http://where.yahooapis.com/v1/place/1132496  23424868                 Korea   1132496          KR               7           Town
+217              Seongnam   http://where.yahooapis.com/v1/place/1132559  23424868                 Korea   1132559          KR               7           Town
+218                 Suwon   http://where.yahooapis.com/v1/place/1132567  23424868                 Korea   1132567          KR               7           Town
+219                 Ulsan   http://where.yahooapis.com/v1/place/1132578  23424868                 Korea   1132578          KR               7           Town
+220                 Seoul   http://where.yahooapis.com/v1/place/1132599  23424868                 Korea   1132599          KR               7           Town
+221                Kajang   http://where.yahooapis.com/v1/place/1141268  23424901              Malaysia   1141268          MY               7           Town
+222                  Ipoh   http://where.yahooapis.com/v1/place/1154679  23424901              Malaysia   1154679          MY               7           Town
+223           Johor Bahru   http://where.yahooapis.com/v1/place/1154698  23424901              Malaysia   1154698          MY               7           Town
+224                 Klang   http://where.yahooapis.com/v1/place/1154726  23424901              Malaysia   1154726          MY               7           Town
+225          Kuala Lumpur   http://where.yahooapis.com/v1/place/1154781  23424901              Malaysia   1154781          MY               7           Town
+226               Calocan   http://where.yahooapis.com/v1/place/1167715  23424934           Philippines   1167715          PH               7           Town
+227                Makati   http://where.yahooapis.com/v1/place/1180689  23424934           Philippines   1180689          PH               7           Town
+228                 Pasig   http://where.yahooapis.com/v1/place/1187115  23424934           Philippines   1187115          PH               7           Town
+229                Taguig   http://where.yahooapis.com/v1/place/1195098  23424934           Philippines   1195098          PH               7           Town
+230              Antipolo   http://where.yahooapis.com/v1/place/1198785  23424934           Philippines   1198785          PH               7           Town
+231        Cagayan de Oro   http://where.yahooapis.com/v1/place/1199002  23424934           Philippines   1199002          PH               7           Town
+232             Cebu City   http://where.yahooapis.com/v1/place/1199079  23424934           Philippines   1199079          PH               7           Town
+233            Davao City   http://where.yahooapis.com/v1/place/1199136  23424934           Philippines   1199136          PH               7           Town
+234                Manila   http://where.yahooapis.com/v1/place/1199477  23424934           Philippines   1199477          PH               7           Town
+235           Quezon City   http://where.yahooapis.com/v1/place/1199682  23424934           Philippines   1199682          PH               7           Town
+236        Zamboanga City   http://where.yahooapis.com/v1/place/1199980  23424934           Philippines   1199980          PH               7           Town
+237               Bangkok   http://where.yahooapis.com/v1/place/1225448  23424960              Thailand   1225448          TH               7           Town
+238                 Hanoi   http://where.yahooapis.com/v1/place/1236594  23424984               Vietnam   1236594          VN               7           Town
+239             Hai Phong   http://where.yahooapis.com/v1/place/1236690  23424984               Vietnam   1236690          VN               7           Town
+240               Can Tho   http://where.yahooapis.com/v1/place/1252351  23424984               Vietnam   1252351          VN               7           Town
+241               Da Nang   http://where.yahooapis.com/v1/place/1252376  23424984               Vietnam   1252376          VN               7           Town
+242      Ho Chi Minh City   http://where.yahooapis.com/v1/place/1252431  23424984               Vietnam   1252431          VN               7           Town
+243               Algiers   http://where.yahooapis.com/v1/place/1253079  23424740               Algeria   1253079          DZ               7           Town
+244                 Accra   http://where.yahooapis.com/v1/place/1326075  23424824                 Ghana   1326075          GH               7           Town
+245                Kumasi   http://where.yahooapis.com/v1/place/1330595  23424824                 Ghana   1330595          GH               7           Town
+246            Benin City   http://where.yahooapis.com/v1/place/1387660  23424908               Nigeria   1387660          NG               7           Town
+247                Ibadan   http://where.yahooapis.com/v1/place/1393672  23424908               Nigeria   1393672          NG               7           Town
+248                Kaduna   http://where.yahooapis.com/v1/place/1396439  23424908               Nigeria   1396439          NG               7           Town
+249                  Kano   http://where.yahooapis.com/v1/place/1396803  23424908               Nigeria   1396803          NG               7           Town
+250                 Lagos   http://where.yahooapis.com/v1/place/1398823  23424908               Nigeria   1398823          NG               7           Town
+251         Port Harcourt   http://where.yahooapis.com/v1/place/1404447  23424908               Nigeria   1404447          NG               7           Town
+252                  Giza   http://where.yahooapis.com/v1/place/1521643  23424802                 Egypt   1521643          EG               7           Town
+253                 Cairo   http://where.yahooapis.com/v1/place/1521894  23424802                 Egypt   1521894          EG               7           Town
+254            Alexandria   http://where.yahooapis.com/v1/place/1522006  23424802                 Egypt   1522006          EG               7           Town
+255               Mombasa   http://where.yahooapis.com/v1/place/1528335  23424863                 Kenya   1528335          KE               7           Town
+256               Nairobi   http://where.yahooapis.com/v1/place/1528488  23424863                 Kenya   1528488          KE               7           Town
+257                Durban   http://where.yahooapis.com/v1/place/1580913  23424942          South Africa   1580913          ZA               7           Town
+258          Johannesburg   http://where.yahooapis.com/v1/place/1582504  23424942          South Africa   1582504          ZA               7           Town
+259        Port Elizabeth   http://where.yahooapis.com/v1/place/1586614  23424942          South Africa   1586614          ZA               7           Town
+260              Pretoria   http://where.yahooapis.com/v1/place/1586638  23424942          South Africa   1586638          ZA               7           Town
+261                Soweto   http://where.yahooapis.com/v1/place/1587677  23424942          South Africa   1587677          ZA              22        Unknown
+262             Cape Town   http://where.yahooapis.com/v1/place/1591691  23424942          South Africa   1591691          ZA               7           Town
+263                Medina   http://where.yahooapis.com/v1/place/1937801  23424938          Saudi Arabia   1937801          SA               7           Town
+264                Dammam   http://where.yahooapis.com/v1/place/1939574  23424938          Saudi Arabia   1939574          SA               7           Town
+265                Riyadh   http://where.yahooapis.com/v1/place/1939753  23424938          Saudi Arabia   1939753          SA               7           Town
+266                Jeddah   http://where.yahooapis.com/v1/place/1939873  23424938          Saudi Arabia   1939873          SA               7           Town
+267                 Mecca   http://where.yahooapis.com/v1/place/1939897  23424938          Saudi Arabia   1939897          SA               7           Town
+268               Sharjah   http://where.yahooapis.com/v1/place/1940119  23424738  United Arab Emirates   1940119          AE               7           Town
+269             Abu Dhabi   http://where.yahooapis.com/v1/place/1940330  23424738  United Arab Emirates   1940330          AE               7           Town
+270                 Dubai   http://where.yahooapis.com/v1/place/1940345  23424738  United Arab Emirates   1940345          AE               7           Town
+271                 Haifa   http://where.yahooapis.com/v1/place/1967449  23424852                Israel   1967449          IL               7           Town
+272              Tel Aviv   http://where.yahooapis.com/v1/place/1968212  23424852                Israel   1968212          IL               7           Town
+273             Jerusalem   http://where.yahooapis.com/v1/place/1968222  23424852                Israel   1968222          IL               7           Town
+274                 Amman   http://where.yahooapis.com/v1/place/1968902  23424860                Jordan   1968902          JO               7           Town
+275           Chelyabinsk   http://where.yahooapis.com/v1/place/1997422  23424936                Russia   1997422          RU               7           Town
+276            Khabarovsk   http://where.yahooapis.com/v1/place/2018708  23424936                Russia   2018708          RU               7           Town
+277             Krasnodar   http://where.yahooapis.com/v1/place/2028717  23424936                Russia   2028717          RU               7           Town
+278           Krasnoyarsk   http://where.yahooapis.com/v1/place/2029043  23424936                Russia   2029043          RU               7           Town
+279                Samara   http://where.yahooapis.com/v1/place/2077746  23424936                Russia   2077746          RU               7           Town
+280              Voronezh   http://where.yahooapis.com/v1/place/2108210  23424936                Russia   2108210          RU               7           Town
+281         Yekaterinburg   http://where.yahooapis.com/v1/place/2112237  23424936                Russia   2112237          RU               7           Town
+282               Irkutsk   http://where.yahooapis.com/v1/place/2121040  23424936                Russia   2121040          RU               7           Town
+283                 Kazan   http://where.yahooapis.com/v1/place/2121267  23424936                Russia   2121267          RU               7           Town
+284                Moscow   http://where.yahooapis.com/v1/place/2122265  23424936                Russia   2122265          RU               7           Town
+285       Nizhny Novgorod   http://where.yahooapis.com/v1/place/2122471  23424936                Russia   2122471          RU               7           Town
+286           Novosibirsk   http://where.yahooapis.com/v1/place/2122541  23424936                Russia   2122541          RU               7           Town
+287                  Omsk   http://where.yahooapis.com/v1/place/2122641  23424936                Russia   2122641          RU               7           Town
+288                  Perm   http://where.yahooapis.com/v1/place/2122814  23424936                Russia   2122814          RU               7           Town
+289         Rostov-on-Don   http://where.yahooapis.com/v1/place/2123177  23424936                Russia   2123177          RU               7           Town
+290      Saint Petersburg   http://where.yahooapis.com/v1/place/2123260  23424936                Russia   2123260          RU               7           Town
+291                   Ufa   http://where.yahooapis.com/v1/place/2124045  23424936                Russia   2124045          RU               7           Town
+292           Vladivostok   http://where.yahooapis.com/v1/place/2124288  23424936                Russia   2124288          RU               7           Town
+293             Volgograd   http://where.yahooapis.com/v1/place/2124298  23424936                Russia   2124298          RU               7           Town
+294               Karachi   http://where.yahooapis.com/v1/place/2211096  23424922              Pakistan   2211096          PK               7           Town
+295                Lahore   http://where.yahooapis.com/v1/place/2211177  23424922              Pakistan   2211177          PK               7           Town
+296                Multan   http://where.yahooapis.com/v1/place/2211269  23424922              Pakistan   2211269          PK               7           Town
+297            Rawalpindi   http://where.yahooapis.com/v1/place/2211387  23424922              Pakistan   2211387          PK               7           Town
+298            Faisalabad   http://where.yahooapis.com/v1/place/2211574  23424922              Pakistan   2211574          PK               7           Town
+299                Muscat   http://where.yahooapis.com/v1/place/2268284  23424898                  Oman   2268284          OM               7           Town
+300                Nagpur   http://where.yahooapis.com/v1/place/2282863  23424848                 India   2282863          IN               7           Town
+301               Lucknow   http://where.yahooapis.com/v1/place/2295377  23424848                 India   2295377          IN               7           Town
+302                Kanpur   http://where.yahooapis.com/v1/place/2295378  23424848                 India   2295378          IN               7           Town
+303                 Patna   http://where.yahooapis.com/v1/place/2295381  23424848                 India   2295381          IN               7           Town
+304                Ranchi   http://where.yahooapis.com/v1/place/2295383  23424848                 India   2295383          IN               7           Town
+305               Kolkata   http://where.yahooapis.com/v1/place/2295386  23424848                 India   2295386          IN               7           Town
+306              Srinagar   http://where.yahooapis.com/v1/place/2295387  23424848                 India   2295387          IN               7           Town
+307              Amritsar   http://where.yahooapis.com/v1/place/2295388  23424848                 India   2295388          IN               7           Town
+308                Jaipur   http://where.yahooapis.com/v1/place/2295401  23424848                 India   2295401          IN               7           Town
+309             Ahmedabad   http://where.yahooapis.com/v1/place/2295402  23424848                 India   2295402          IN               7           Town
+310                Rajkot   http://where.yahooapis.com/v1/place/2295404  23424848                 India   2295404          IN               7           Town
+311                 Surat   http://where.yahooapis.com/v1/place/2295405  23424848                 India   2295405          IN               7           Town
+312                Bhopal   http://where.yahooapis.com/v1/place/2295407  23424848                 India   2295407          IN               7           Town
+313                Indore   http://where.yahooapis.com/v1/place/2295408  23424848                 India   2295408          IN               7           Town
+314                 Thane   http://where.yahooapis.com/v1/place/2295410  23424848                 India   2295410          IN               7           Town
+315                Mumbai   http://where.yahooapis.com/v1/place/2295411  23424848                 India   2295411          IN               7           Town
+316                  Pune   http://where.yahooapis.com/v1/place/2295412  23424848                 India   2295412          IN               7           Town
+317             Hyderabad   http://where.yahooapis.com/v1/place/2295414  23424848                 India   2295414          IN               7           Town
+318             Bangalore   http://where.yahooapis.com/v1/place/2295420  23424848                 India   2295420          IN               7           Town
+319               Chennai   http://where.yahooapis.com/v1/place/2295424  23424848                 India   2295424          IN               7           Town
+320                Mersin   http://where.yahooapis.com/v1/place/2323778  23424969                Turkey   2323778          TR               7           Town
+321                 Adana   http://where.yahooapis.com/v1/place/2343678  23424969                Turkey   2343678          TR               7           Town
+322                Ankara   http://where.yahooapis.com/v1/place/2343732  23424969                Turkey   2343732          TR               7           Town
+323               Antalya   http://where.yahooapis.com/v1/place/2343733  23424969                Turkey   2343733          TR               7           Town
+324                 Bursa   http://where.yahooapis.com/v1/place/2343843  23424969                Turkey   2343843          TR               7           Town
+325            Diyarbakır   http://where.yahooapis.com/v1/place/2343932  23424969                Turkey   2343932          TR               7           Town
+326             Eskişehir   http://where.yahooapis.com/v1/place/2343980  23424969                Turkey   2343980          TR               7           Town
+327             Gaziantep   http://where.yahooapis.com/v1/place/2343999  23424969                Turkey   2343999          TR               7           Town
+328              Istanbul   http://where.yahooapis.com/v1/place/2344116  23424969                Turkey   2344116          TR               7           Town
+329                 Izmir   http://where.yahooapis.com/v1/place/2344117  23424969                Turkey   2344117          TR               7           Town
+330               Kayseri   http://where.yahooapis.com/v1/place/2344174  23424969                Turkey   2344174          TR               7           Town
+331                 Konya   http://where.yahooapis.com/v1/place/2344210  23424969                Turkey   2344210          TR               7           Town
+332               Okinawa   http://where.yahooapis.com/v1/place/2345896  23424856                 Japan   2345896          JP               7           Town
+333               Daejeon   http://where.yahooapis.com/v1/place/2345975  23424868                 Korea   2345975          KR               7           Town
+334              Auckland   http://where.yahooapis.com/v1/place/2348079  23424916           New Zealand   2348079          NZ               7           Town
+335           Albuquerque   http://where.yahooapis.com/v1/place/2352824  23424977         United States   2352824          US               7           Town
+336               Atlanta   http://where.yahooapis.com/v1/place/2357024  23424977         United States   2357024          US               7           Town
+337                Austin   http://where.yahooapis.com/v1/place/2357536  23424977         United States   2357536          US               7           Town
+338             Baltimore   http://where.yahooapis.com/v1/place/2358820  23424977         United States   2358820          US               7           Town
+339           Baton Rouge   http://where.yahooapis.com/v1/place/2359991  23424977         United States   2359991          US               7           Town
+340            Birmingham   http://where.yahooapis.com/v1/place/2364559  23424977         United States   2364559          US               7           Town
+341                Boston   http://where.yahooapis.com/v1/place/2367105  23424977         United States   2367105          US               7           Town
+342             Charlotte   http://where.yahooapis.com/v1/place/2378426  23424977         United States   2378426          US               7           Town
+343               Chicago   http://where.yahooapis.com/v1/place/2379574  23424977         United States   2379574          US               7           Town
+344            Cincinnati   http://where.yahooapis.com/v1/place/2380358  23424977         United States   2380358          US               7           Town
+345             Cleveland   http://where.yahooapis.com/v1/place/2381475  23424977         United States   2381475          US               7           Town
+346      Colorado Springs   http://where.yahooapis.com/v1/place/2383489  23424977         United States   2383489          US               7           Town
+347              Columbus   http://where.yahooapis.com/v1/place/2383660  23424977         United States   2383660          US               7           Town
+348      Dallas-Ft. Worth   http://where.yahooapis.com/v1/place/2388929  23424977         United States   2388929          US               7           Town
+349                Denver   http://where.yahooapis.com/v1/place/2391279  23424977         United States   2391279          US               7           Town
+350               Detroit   http://where.yahooapis.com/v1/place/2391585  23424977         United States   2391585          US               7           Town
+351               El Paso   http://where.yahooapis.com/v1/place/2397816  23424977         United States   2397816          US               7           Town
+352                Fresno   http://where.yahooapis.com/v1/place/2407517  23424977         United States   2407517          US               7           Town
+353            Greensboro   http://where.yahooapis.com/v1/place/2414469  23424977         United States   2414469          US               7           Town
+354            Harrisburg   http://where.yahooapis.com/v1/place/2418046  23424977         United States   2418046          US               7           Town
+355              Honolulu   http://where.yahooapis.com/v1/place/2423945  23424977         United States   2423945          US               7           Town
+356               Houston   http://where.yahooapis.com/v1/place/2424766  23424977         United States   2424766          US               7           Town
+357          Indianapolis   http://where.yahooapis.com/v1/place/2427032  23424977         United States   2427032          US               7           Town
+358               Jackson   http://where.yahooapis.com/v1/place/2428184  23424977         United States   2428184          US               7           Town
+359          Jacksonville   http://where.yahooapis.com/v1/place/2428344  23424977         United States   2428344          US               7           Town
+360           Kansas City   http://where.yahooapis.com/v1/place/2430683  23424977         United States   2430683          US               7           Town
+361             Las Vegas   http://where.yahooapis.com/v1/place/2436704  23424977         United States   2436704          US               7           Town
+362            Long Beach   http://where.yahooapis.com/v1/place/2441472  23424977         United States   2441472          US               7           Town
+363           Los Angeles   http://where.yahooapis.com/v1/place/2442047  23424977         United States   2442047          US               7           Town
+364            Louisville   http://where.yahooapis.com/v1/place/2442327  23424977         United States   2442327          US               7           Town
+365               Memphis   http://where.yahooapis.com/v1/place/2449323  23424977         United States   2449323          US               7           Town
+366                  Mesa   http://where.yahooapis.com/v1/place/2449808  23424977         United States   2449808          US               7           Town
+367                 Miami   http://where.yahooapis.com/v1/place/2450022  23424977         United States   2450022          US               7           Town
+368             Milwaukee   http://where.yahooapis.com/v1/place/2451822  23424977         United States   2451822          US               7           Town
+369           Minneapolis   http://where.yahooapis.com/v1/place/2452078  23424977         United States   2452078          US               7           Town
+370             Nashville   http://where.yahooapis.com/v1/place/2457170  23424977         United States   2457170          US               7           Town
+371             New Haven   http://where.yahooapis.com/v1/place/2458410  23424977         United States   2458410          US               7           Town
+372           New Orleans   http://where.yahooapis.com/v1/place/2458833  23424977         United States   2458833          US               7           Town
+373              New York   http://where.yahooapis.com/v1/place/2459115  23424977         United States   2459115          US               7           Town
+374               Norfolk   http://where.yahooapis.com/v1/place/2460389  23424977         United States   2460389          US               7           Town
+375         Oklahoma City   http://where.yahooapis.com/v1/place/2464592  23424977         United States   2464592          US               7           Town
+376                 Omaha   http://where.yahooapis.com/v1/place/2465512  23424977         United States   2465512          US               7           Town
+377               Orlando   http://where.yahooapis.com/v1/place/2466256  23424977         United States   2466256          US               7           Town
+378          Philadelphia   http://where.yahooapis.com/v1/place/2471217  23424977         United States   2471217          US               7           Town
+379               Phoenix   http://where.yahooapis.com/v1/place/2471390  23424977         United States   2471390          US               7           Town
+380            Pittsburgh   http://where.yahooapis.com/v1/place/2473224  23424977         United States   2473224          US               7           Town
+381              Portland   http://where.yahooapis.com/v1/place/2475687  23424977         United States   2475687          US               7           Town
+382            Providence   http://where.yahooapis.com/v1/place/2477058  23424977         United States   2477058          US               7           Town
+383               Raleigh   http://where.yahooapis.com/v1/place/2478307  23424977         United States   2478307          US               7           Town
+384              Richmond   http://where.yahooapis.com/v1/place/2480894  23424977         United States   2480894          US               7           Town
+385            Sacramento   http://where.yahooapis.com/v1/place/2486340  23424977         United States   2486340          US               7           Town
+386             St. Louis   http://where.yahooapis.com/v1/place/2486982  23424977         United States   2486982          US               7           Town
+387        Salt Lake City   http://where.yahooapis.com/v1/place/2487610  23424977         United States   2487610          US               7           Town
+388           San Antonio   http://where.yahooapis.com/v1/place/2487796  23424977         United States   2487796          US               7           Town
+389             San Diego   http://where.yahooapis.com/v1/place/2487889  23424977         United States   2487889          US               7           Town
+390         San Francisco   http://where.yahooapis.com/v1/place/2487956  23424977         United States   2487956          US               7           Town
+391              San Jose   http://where.yahooapis.com/v1/place/2488042  23424977         United States   2488042          US               7           Town
+392               Seattle   http://where.yahooapis.com/v1/place/2490383  23424977         United States   2490383          US               7           Town
+393           Tallahassee   http://where.yahooapis.com/v1/place/2503713  23424977         United States   2503713          US               7           Town
+394                 Tampa   http://where.yahooapis.com/v1/place/2503863  23424977         United States   2503863          US               7           Town
+395                Tucson   http://where.yahooapis.com/v1/place/2508428  23424977         United States   2508428          US               7           Town
+396        Virginia Beach   http://where.yahooapis.com/v1/place/2512636  23424977         United States   2512636          US               7           Town
+397            Washington   http://where.yahooapis.com/v1/place/2514815  23424977         United States   2514815          US               7           Town
+398                 Osaka  http://where.yahooapis.com/v1/place/15015370  23424856                 Japan  15015370          JP               7           Town
+399                 Kyoto  http://where.yahooapis.com/v1/place/15015372  23424856                 Japan  15015372          JP               7           Town
+400                 Delhi  http://where.yahooapis.com/v1/place/20070458  23424848                 India  20070458          IN               7           Town
+401  United Arab Emirates  http://where.yahooapis.com/v1/place/23424738         1  United Arab Emirates  23424738          AE              12        Country
+402               Algeria  http://where.yahooapis.com/v1/place/23424740         1               Algeria  23424740          DZ              12        Country
+403             Argentina  http://where.yahooapis.com/v1/place/23424747         1             Argentina  23424747          AR              12        Country
+404             Australia  http://where.yahooapis.com/v1/place/23424748         1             Australia  23424748          AU              12        Country
+405               Austria  http://where.yahooapis.com/v1/place/23424750         1               Austria  23424750          AT              12        Country
+406               Bahrain  http://where.yahooapis.com/v1/place/23424753         1               Bahrain  23424753          BH              12        Country
+407               Belgium  http://where.yahooapis.com/v1/place/23424757         1               Belgium  23424757          BE              12        Country
+408               Belarus  http://where.yahooapis.com/v1/place/23424765         1               Belarus  23424765          BY              12        Country
+409                Brazil  http://where.yahooapis.com/v1/place/23424768         1                Brazil  23424768          BR              12        Country
+410                Canada  http://where.yahooapis.com/v1/place/23424775         1                Canada  23424775          CA              12        Country
+411                 Chile  http://where.yahooapis.com/v1/place/23424782         1                 Chile  23424782          CL              12        Country
+412              Colombia  http://where.yahooapis.com/v1/place/23424787         1              Colombia  23424787          CO              12        Country
+413               Denmark  http://where.yahooapis.com/v1/place/23424796         1               Denmark  23424796          DK              12        Country
+414    Dominican Republic  http://where.yahooapis.com/v1/place/23424800         1    Dominican Republic  23424800          DO              12        Country
+415               Ecuador  http://where.yahooapis.com/v1/place/23424801         1               Ecuador  23424801          EC              12        Country
+416                 Egypt  http://where.yahooapis.com/v1/place/23424802         1                 Egypt  23424802          EG              12        Country
+417               Ireland  http://where.yahooapis.com/v1/place/23424803         1               Ireland  23424803          IE              12        Country
+418                France  http://where.yahooapis.com/v1/place/23424819         1                France  23424819          FR              12        Country
+419                 Ghana  http://where.yahooapis.com/v1/place/23424824         1                 Ghana  23424824          GH              12        Country
+420               Germany  http://where.yahooapis.com/v1/place/23424829         1               Germany  23424829          DE              12        Country
+421                Greece  http://where.yahooapis.com/v1/place/23424833         1                Greece  23424833          GR              12        Country
+422             Guatemala  http://where.yahooapis.com/v1/place/23424834         1             Guatemala  23424834          GT              12        Country
+423             Indonesia  http://where.yahooapis.com/v1/place/23424846         1             Indonesia  23424846          ID              12        Country
+424                 India  http://where.yahooapis.com/v1/place/23424848         1                 India  23424848          IN              12        Country
+425                Israel  http://where.yahooapis.com/v1/place/23424852         1                Israel  23424852          IL              12        Country
+426                 Italy  http://where.yahooapis.com/v1/place/23424853         1                 Italy  23424853          IT              12        Country
+427                 Japan  http://where.yahooapis.com/v1/place/23424856         1                 Japan  23424856          JP              12        Country
+428                Jordan  http://where.yahooapis.com/v1/place/23424860         1                Jordan  23424860          JO              12        Country
+429                 Kenya  http://where.yahooapis.com/v1/place/23424863         1                 Kenya  23424863          KE              12        Country
+430                 Korea  http://where.yahooapis.com/v1/place/23424868         1                 Korea  23424868          KR              12        Country
+431                Kuwait  http://where.yahooapis.com/v1/place/23424870         1                Kuwait  23424870          KW              12        Country
+432               Lebanon  http://where.yahooapis.com/v1/place/23424873         1               Lebanon  23424873          LB              12        Country
+433                Latvia  http://where.yahooapis.com/v1/place/23424874         1                Latvia  23424874          LV              12        Country
+434                  Oman  http://where.yahooapis.com/v1/place/23424898         1                  Oman  23424898          OM              12        Country
+435                Mexico  http://where.yahooapis.com/v1/place/23424900         1                Mexico  23424900          MX              12        Country
+436              Malaysia  http://where.yahooapis.com/v1/place/23424901         1              Malaysia  23424901          MY              12        Country
+437               Nigeria  http://where.yahooapis.com/v1/place/23424908         1               Nigeria  23424908          NG              12        Country
+438           Netherlands  http://where.yahooapis.com/v1/place/23424909         1           Netherlands  23424909          NL              12        Country
+439                Norway  http://where.yahooapis.com/v1/place/23424910         1                Norway  23424910          NO              12        Country
+440           New Zealand  http://where.yahooapis.com/v1/place/23424916         1           New Zealand  23424916          NZ              12        Country
+441                  Peru  http://where.yahooapis.com/v1/place/23424919         1                  Peru  23424919          PE              12        Country
+442              Pakistan  http://where.yahooapis.com/v1/place/23424922         1              Pakistan  23424922          PK              12        Country
+443                Poland  http://where.yahooapis.com/v1/place/23424923         1                Poland  23424923          PL              12        Country
+444                Panama  http://where.yahooapis.com/v1/place/23424924         1                Panama  23424924          PA              12        Country
+445              Portugal  http://where.yahooapis.com/v1/place/23424925         1              Portugal  23424925          PT              12        Country
+446                 Qatar  http://where.yahooapis.com/v1/place/23424930         1                 Qatar  23424930          QA              12        Country
+447           Philippines  http://where.yahooapis.com/v1/place/23424934         1           Philippines  23424934          PH              12        Country
+448           Puerto Rico  http://where.yahooapis.com/v1/place/23424935         1           Puerto Rico  23424935          PR              12        Country
+449                Russia  http://where.yahooapis.com/v1/place/23424936         1                Russia  23424936          RU              12        Country
+450          Saudi Arabia  http://where.yahooapis.com/v1/place/23424938         1          Saudi Arabia  23424938          SA              12        Country
+451          South Africa  http://where.yahooapis.com/v1/place/23424942         1          South Africa  23424942          ZA              12        Country
+452             Singapore  http://where.yahooapis.com/v1/place/23424948         1             Singapore  23424948          SG              12        Country
+453                 Spain  http://where.yahooapis.com/v1/place/23424950         1                 Spain  23424950          ES              12        Country
+454                Sweden  http://where.yahooapis.com/v1/place/23424954         1                Sweden  23424954          SE              12        Country
+455           Switzerland  http://where.yahooapis.com/v1/place/23424957         1           Switzerland  23424957          CH              12        Country
+456              Thailand  http://where.yahooapis.com/v1/place/23424960         1              Thailand  23424960          TH              12        Country
+457                Turkey  http://where.yahooapis.com/v1/place/23424969         1                Turkey  23424969          TR              12        Country
+458        United Kingdom  http://where.yahooapis.com/v1/place/23424975         1        United Kingdom  23424975          GB              12        Country
+459               Ukraine  http://where.yahooapis.com/v1/place/23424976         1               Ukraine  23424976          UA              12        Country
+460         United States  http://where.yahooapis.com/v1/place/23424977         1         United States  23424977          US              12        Country
+461             Venezuela  http://where.yahooapis.com/v1/place/23424982         1             Venezuela  23424982          VE              12        Country
+462               Vietnam  http://where.yahooapis.com/v1/place/23424984         1               Vietnam  23424984          VN              12        Country
+463              Petaling  http://where.yahooapis.com/v1/place/56013632  23424901              Malaysia  56013632          MY               7           Town
+464           Hulu Langat  http://where.yahooapis.com/v1/place/56013645  23424901              Malaysia  56013645          MY               7           Town
+465                  Ahsa  http://where.yahooapis.com/v1/place/56120136  23424938          Saudi Arabia  56120136          SA               9        Unknown
+466               Okayama  http://where.yahooapis.com/v1/place/90036018  23424856                 Japan  90036018          JP               7           Town
